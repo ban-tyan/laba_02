@@ -1,6 +1,6 @@
 # laba_02
-## Задание 1
-**Условие 1**
+## Вариант 2
+>**Условие 1**
 >![image](https://github.com/ban-tyan/laba_02/assets/145260845/d2a40286-86cd-42db-898e-64f43948b0a1)
 **Условие 2**
 ![image](https://github.com/ban-tyan/laba_02/assets/145260845/6398be88-ebdd-432a-b9ec-e7a07dbbd795)
