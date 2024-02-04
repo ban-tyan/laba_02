@@ -17,6 +17,7 @@ def count_codes():
     return count #возвращаем счетчик(функцию)
 
 print(count_codes()) 
+```
 
 >**Условие 2**
 >![image](https://github.com/ban-tyan/laba_02/assets/145260845/6398be88-ebdd-432a-b9ec-e7a07dbbd795)
